@@ -14,7 +14,3 @@
 	path = nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
 	branch = master
-[submodule "command-t"]
-	path = command-t
-	url = https://github.com/wincent/command-t.git
-	branch = master
