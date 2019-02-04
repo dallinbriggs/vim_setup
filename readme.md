@@ -8,9 +8,13 @@ Get all of the submodules
 cd ~/.vim && git submodule update --init --recursive
 ```
 
-Copy the vimrc file into your home
+Copy the vimrc file into your home*
 ```
 cd ~/.vim && cp vimrc ~/.vimrc
+```
+*Alternatively, you can place the following line in your .bashrc file
+```
+export VIMINIT="source ~/.vim/vimrc"
 ```
 
 Open vim by typing vim in a terminal
