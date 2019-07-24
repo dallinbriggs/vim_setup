@@ -1,6 +1,6 @@
 Clone this repository into your home directory
 ```
-git clone git@github.com:dallinbriggs/vim_setup.git ~/.vim
+git clone https://github.com/dallinbriggs/vim_setup.git ~/.vim
 ```
 
 Get all of the submodules
