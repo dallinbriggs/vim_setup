@@ -44,8 +44,8 @@ filetype plugin indent on    " required
 " Put your non-Plugin stuff after this line
 
 " Escape Mappings for insert and visual modes
-inoremap jk <esc>
-vnoremap jk <esc>
+inoremap LK <esc>
+vnoremap LK <esc>
 
 let mapleader = ","
 
@@ -55,8 +55,8 @@ autocmd BufNewFile,BufRead *.launch set filetype=xml
 syntax on
 filetype plugin indent on
 " show existing tab with 4 spaces width
-set tabstop=4
+"set tabstop=4
 " when indenting with '>', use 4 spaces width
-set shiftwidth=4
+"set shiftwidth=4
 " On pressing tab, insert 4 spaces
-set expandtab
+"set expandtab
