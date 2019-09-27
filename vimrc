@@ -51,6 +51,7 @@ let mapleader = ","
 
 autocmd BufNewFile,BufRead *.rosrc set filetype=sh
 autocmd BufNewFile,BufRead *.launch set filetype=xml
+autocmd BufNewFile,BufRead *.rosinstall set filetype=yaml
 
 syntax on
 filetype plugin indent on
