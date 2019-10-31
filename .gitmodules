@@ -2,15 +2,3 @@
 	path = bundle/Vundle.vim
 	url = https://github.com/VundleVim/Vundle.vim.git
 	branch = master
-[submodule "vim-fugitive"]
-	path = bundle/vim-fugitive
-	url = https://github.com/tpope/vim-fugitive.git
-	branch = master
-[submodule "sparkup"]
-	path = bundle/sparkup
-	url = https://github.com/rstacruz/sparkup.git
-	branch = master
-[submodule "nerdcommenter"]
-	path = bundle/nerdcommenter
-	url = https://github.com/scrooloose/nerdcommenter.git
-	branch = master
