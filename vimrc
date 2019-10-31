@@ -15,7 +15,6 @@ Plugin 'dhruvasagar/vim-table-mode'
 Plugin 'easymotion/vim-easymotion'
 Plugin 'git://git.wincent.com/command-t.git'
 Plugin 'nathanaelkane/vim-indent-guides'
-Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'tpope/vim-fugitive'
 Plugin 'tpope/vim-surround'
