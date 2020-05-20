@@ -41,6 +41,8 @@ vnoremap LK <esc>
 
 let mapleader = ","
 
+set encoding=utf-8
+
 autocmd BufNewFile,BufRead *.rosrc set filetype=sh
 autocmd BufNewFile,BufRead *.launch set filetype=xml
 autocmd BufNewFile,BufRead *.rosinstall set filetype=yaml
