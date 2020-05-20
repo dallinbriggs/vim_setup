@@ -10,7 +10,7 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 
-Plugin 'airblade/vim-gitgutter'
+"Plugin 'airblade/vim-gitgutter'
 Plugin 'dhruvasagar/vim-table-mode'
 Plugin 'easymotion/vim-easymotion'
 Plugin 'git://git.wincent.com/command-t.git'
