@@ -16,7 +16,7 @@ Plugin 'easymotion/vim-easymotion'
 Plugin 'git://git.wincent.com/command-t.git'
 Plugin 'junegunn/fzf.vim'
 Plugin 'nathanaelkane/vim-indent-guides'
-Plugin 'neoclide/coc.nvim', {'branch': 'v0.0.78'}
+"Plugin 'neoclide/coc.nvim', {'branch': 'v0.0.25'}
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'tomasiser/vim-code-dark'
 Plugin 'tpope/vim-fugitive'
