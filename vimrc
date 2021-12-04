@@ -1,7 +1,10 @@
 call plug#begin()
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'preservim/nerdcommenter', {'branch': 'master'}
 
 call plug#end()
+
+let mapleader = ","
 
 " Search Settings
 set ignorecase
