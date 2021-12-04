@@ -4,6 +4,8 @@ Plug 'preservim/nerdcommenter', {'branch': 'master'}
 
 call plug#end()
 
+let g:coc_disable_startup_warning = 1
+
 let mapleader = ","
 
 " Search Settings
