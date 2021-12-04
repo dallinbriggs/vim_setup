@@ -2,3 +2,4 @@ bundle/
 !bundle/Youcompleteme/
 !bundle/Vundle.vim/
 *.swp
+plugged/
