@@ -21,6 +21,10 @@ set shiftwidth=2
 
 " File type settings
 autocmd FileType yaml setlocal ts=2 sts=2 sw=2 expandtab
+augroup launch
+  au!
+  autocmd BufNewFile,BufRead *.launch   set syntax=xml
+augroup END
 
 " Set internal encoding of vim, not needed on neovim, since coc.nvim using some
 " unicode characters in the file autoload/float.vim
