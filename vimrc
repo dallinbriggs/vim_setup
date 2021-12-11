@@ -13,6 +13,7 @@ set ignorecase
 set smartcase
 set incsearch
 set hlsearch
+nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>
 
 " Default tab settings
 set expandtab
