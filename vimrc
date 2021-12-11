@@ -12,6 +12,7 @@ let mapleader = ","
 set ignorecase
 set smartcase
 set incsearch
+set hlsearch
 
 " Default tab settings
 set expandtab
