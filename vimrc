@@ -1,5 +1,6 @@
 call plug#begin()
 Plug 'preservim/nerdcommenter', {'branch': 'master'}
+Plug 'maxboisvert/vim-simple-complete'
 
 call plug#end()
 
